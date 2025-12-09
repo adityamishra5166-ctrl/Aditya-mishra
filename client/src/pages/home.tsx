@@ -19,6 +19,10 @@ export default function Home() {
           <span className="font-mono text-neon-lime text-sm tracking-widest">SYSTEM_READY_V2.5</span>
         </div>
 
+        <p className="font-display text-2xl md:text-3xl text-white/90 tracking-[0.3em] uppercase">
+          Aditya Mishra
+        </p>
+
         <h1 className="font-display text-5xl md:text-8xl font-bold leading-tight uppercase tracking-tighter">
           <GlitchText text="CREATIVE" className="block text-white" />
           <GlitchText text="DEVELOPER" className="block text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-blue" />

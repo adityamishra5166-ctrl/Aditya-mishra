@@ -18,7 +18,7 @@ export default function Layout({ children }: { children: ReactNode }) {
       </main>
 
       <footer className="py-8 text-center text-white/30 text-xs font-mono">
-        <p>© 2025 RAVE_PORTFOLIO // SYSTEM_ONLINE</p>
+        <p>© 2025 Aditya Mishra // SYSTEM_ONLINE</p>
       </footer>
     </div>
   );
