@@ -24,8 +24,8 @@ export default function Home() {
         </p>
 
         <h1 className="font-display text-5xl md:text-8xl font-bold leading-tight uppercase tracking-tighter">
-          <GlitchText text="CREATIVE" className="block text-white" />
-          <GlitchText text="DEVELOPER" className="block text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-blue" />
+          <GlitchText text="FULL STACK" className="block text-white" />
+          <GlitchText text="ENGINEER" className="block text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-blue" />
         </h1>
 
         <p className="font-mono text-white/70 max-w-xl text-lg leading-relaxed border-l-2 border-neon-purple pl-4">
