@@ -3,12 +3,12 @@ import GlitchText from "@/components/GlitchText";
 import { Code, Database, Layout, Terminal, Cpu, Globe } from "lucide-react";
 
 const skills = [
-  { name: "Frontend", icon: Layout, level: 95, color: "bg-neon-purple" },
-  { name: "Backend", icon: Database, level: 85, color: "bg-neon-blue" },
-  { name: "Three.js", icon: Globe, level: 70, color: "bg-neon-lime" },
-  { name: "System Arch", icon: Cpu, level: 80, color: "bg-neon-magenta" },
-  { name: "DevOps", icon: Terminal, level: 65, color: "bg-white" },
-  { name: "Creative Dev", icon: Code, level: 90, color: "bg-neon-purple" },
+  { name: "Frontend", icon: Layout, level: 90, color: "bg-neon-purple" },
+  { name: "Backend", icon: Database, level: 80, color: "bg-neon-blue" },
+  { name: "Three.js", icon: Globe, level: 65, color: "bg-neon-lime" },
+  { name: "System Arch", icon: Cpu, level: 75, color: "bg-neon-magenta" },
+  { name: "DevOps", icon: Terminal, level: 60, color: "bg-white" },
+  { name: "Multi-lang", icon: Code, level: 85, color: "bg-neon-purple" },
 ];
 
 export default function About() {
@@ -40,19 +40,19 @@ export default function About() {
             </div>
 
             <div className="bg-white/5 border border-white/10 p-8 backdrop-blur-sm hover:border-neon-lime transition-colors duration-300">
-              <h3 className="font-mono text-neon-lime text-xl mb-4">// EXPERIENCE_SUMMARY</h3>
+              <h3 className="font-mono text-neon-lime text-xl mb-4">// EDUCATION</h3>
               <ul className="space-y-4 font-mono text-sm">
                 <li className="flex justify-between border-b border-white/10 pb-2">
-                  <span>SENIOR_DEV @ TECH_CORP</span>
-                  <span className="text-white/50">2023 - PRESENT</span>
+                  <span>Matriculation @ Singheshwar Seminary Patahi (CBSE)</span>
+                  <span className="text-white/50">Completed</span>
                 </li>
                 <li className="flex justify-between border-b border-white/10 pb-2">
-                  <span>FULLSTACK @ STARTUP_INC</span>
-                  <span className="text-white/50">2021 - 2023</span>
+                  <span>Intermediate @ Singheshwar Seminary Patahi (Bihar Board)</span>
+                  <span className="text-white/50">Completed</span>
                 </li>
                 <li className="flex justify-between border-b border-white/10 pb-2">
-                  <span>UG @ ARCADE BUSINESS COLLEGE</span>
-                  <span className="text-white/50">BCA</span>
+                  <span>BCA @ Arcade Business College, Patna</span>
+                  <span className="text-white/50">Ongoing</span>
                 </li>
               </ul>
             </div>

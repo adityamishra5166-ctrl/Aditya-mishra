@@ -3,32 +3,25 @@ import GlitchText from "@/components/GlitchText";
 
 const timeline = [
   {
-    year: "2023 - NOW",
-    role: "SENIOR ENGINEER",
-    company: "CYBER_CORP",
-    desc: "Leading the frontend architecture for next-gen fintech applications. Migrated legacy monolith to micro-frontends.",
-    tech: "Next.js, GraphQL, AWS"
+    year: "Completed",
+    role: "Matriculation",
+    company: "Singheshwar Seminary Patahi (CBSE)",
+    desc: "Built strong fundamentals in math and science; started coding basics.",
+    tech: "C fundamentals, problem solving"
   },
   {
-    year: "2021 - 2023",
-    role: "FULL STACK DEV",
-    company: "NEON_STARTUP",
-    desc: "Built scalable APIs and interactive 3D visualizations for data analytics platform.",
-    tech: "Node.js, Three.js, PostgreSQL"
+    year: "Completed",
+    role: "Intermediate",
+    company: "Singheshwar Seminary Patahi (Bihar Board)",
+    desc: "Deepened analytical skills and explored programming beyond the syllabus.",
+    tech: "C++, Java basics, algorithms"
   },
   {
-    year: "2019 - 2021",
-    role: "UI DESIGNER / DEV",
-    company: "DIGITAL_AGENCY",
-    desc: "Designed and developed award-winning marketing sites for Fortune 500 clients.",
-    tech: "React, GSAP, WebGL"
-  },
-  {
-    year: "2018 - 2019",
-    role: "JUNIOR DEVELOPER",
-    company: "TECH_LABS",
-    desc: "Collaborated on internal tools and component libraries.",
-    tech: "Vue.js, Firebase"
+    year: "Ongoing",
+    role: "BCA",
+    company: "Arcade Business College, Patna",
+    desc: "Expanding full-stack skills, building projects, and focusing on practical delivery.",
+    tech: "HTML, CSS, JS/TS, React, Java, Python"
   }
 ];
 

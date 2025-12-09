@@ -21,7 +21,7 @@ export default function Contact() {
         </p>
         <div className="text-center text-white/70 font-mono text-sm space-y-1 mb-6">
           <p>Email: <a className="text-neon-blue" href="mailto:adityamishra123@gmail.com">adityamishra123@gmail.com</a></p>
-          <p>Phone: 23456677</p>
+          <p>Phone: 9835791713</p>
         </div>
 
         <form className="space-y-6 bg-white/5 p-8 border border-white/10 backdrop-blur-md relative overflow-hidden">

@@ -33,6 +33,13 @@ const projects = [
     glow: "hover:shadow-[0_0_30px_rgba(255,0,255,0.3)]"
   },
   {
+    title: "GENERAL_STORE_MANAGEMENT",
+    desc: "Desktop-style inventory, billing, and reporting for a local store.",
+    tech: ["Java", "MySQL", "Swing/JavaFX"],
+    color: "border-neon-lime",
+    glow: "hover:shadow-[0_0_30px_rgba(180,255,57,0.3)]"
+  },
+  {
     title: "SONIC_WAVE",
     desc: "Audio reactive music visualizer for Spotify.",
     tech: ["Web Audio API", "Canvas", "React"],
