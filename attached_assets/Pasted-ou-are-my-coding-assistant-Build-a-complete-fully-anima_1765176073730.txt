@@ -1,0 +1,137 @@
+ou are my coding assistant.
+Build a complete, fully animated developer portfolio using these technologies:
+Next.js (latest)
+TypeScript
+Three.js for 3D visuals + reactive particles
+Barba.js for page transitions
+GSAP for micro-animations
+TailwindCSS (or custom SCSS if needed)
+Framer Motion optional for UI transitions (if helpful)
+I want a Gen-Z, dark rave, neon-cyber theme with these characteristics:
+Dark UI with neon edges (blue, purple, magenta, cyber-green accents)
+Glitch effects, scanlines, grain texture overlays
+Animated cursor with trailing particles
+Smooth physics-based parallax interactions
+Page transitions using Barba.js (glitch-warp style)
+3D hero section with Three.js (reactive neon particles/mesh)
+Rave poster-style typography (bold, wide, futuristic)
+📌 SITE STRUCTURE
+Build these pages/sections:
+1. Homepage
+3D neon particle background (Three.js)
+My name, title (e.g., "Full-Stack Developer")
+Animated intro text (glitch + neon glow)
+Floating elements reacting to cursor position
+Call-to-action buttons:
+“View Projects”
+“Get Resume”
+“Contact”
+2. About Me
+My short bio in neon-card layout
+Skills section:
+Technical skills with animated progress neon bars or radial meters
+Tools icons with hover neon pulses
+3D model or particle bust behind section (optional)
+3. Projects
+Grid of 6–8 project cards
+Hover animations: neon frame, tilt, parallax
+Modal popup for details
+Each project should include:
+Title
+Description
+Tech stack
+Features
+GitHub link
+Live demo link
+4. Experience
+Vertical timeline
+Neon animated line + nodes
+Each experience as a glowing card
+5. Education
+Similar to Experience but with icons
+6. Contact
+Neon-themed form
+Animated submit button
+Socials section (GitHub, LinkedIn, etc.)
+🎨 THEME & DESIGN GUIDELINES
+Color palette:
+#0a0a0a, #111111, neon purple, electric blue #00eaff, cyber lime #b4ff39, hot magenta.
+Font Style:
+Futuristic + rave poster: "Neue Machina", "Space Grotesk", or "Satoshi"
+Style:
+Techno-grid backgrounds, holographic edges, noise overlays
+Animations:
+GSAP scroll smoothing
+Glitch text animation components
+Magnetic button effects
+Barba.js warp-transition
+Neon glow + subtle blur
+🧩 SPECIAL INTERACTIONS & FEATURES
+Include:
+Custom animated cursor with:
+Neon glow
+Particle trail
+Section smooth scroll (GSAP ScrollTrigger)
+Preloader animation
+Glitch loading text
+Neon SVG loader
+Theme audio toggle (low-key ambient techno)
+3D floating shapes in Projects page
+📁 FILE STRUCTURE REQUIREMENTS
+Use this base structure:
+/
+│── app/
+│    ├── layout.tsx
+│    ├── page.tsx    (Home)
+│    ├── about/
+│    │    └── page.tsx
+│    ├── projects/
+│    │    └── page.tsx
+│    ├── experience/
+│    │    └── page.tsx
+│    ├── education/
+│    │    └── page.tsx
+│    ├── contact/
+│         └── page.tsx
+│
+│── components/
+│    ├── Navbar.tsx
+│    ├── Footer.tsx
+│    ├── NeonButton.tsx
+│    ├── GlitchText.tsx
+│    ├── ParticleBackground.tsx (Three.js)
+│    ├── Cursor.tsx
+│
+│── styles/
+│    └── globals.css (or SCSS)
+│
+│── public/
+│    └── textures/
+│    └── fonts/
+│    └── icons/
+🧠 DELIVERABLES
+I want you (Replit AI) to:
+Initialize the project
+Setup Next.js + TS + Tailwind + GSAP + Barba.js + Three.js.
+Generate all components and pages
+Use the above structure, theme, and animation requirements.
+Create placeholder data
+For:
+Skills
+Education
+Experience
+Projects
+Add high-quality animations & interactions
+Ensure everything is responsive & smooth
+Comment code cleanly
+🔥 IMPORTANT
+Code must be clean, modular, reusable.
+No filler comments or trash knowledge.
+Everything must match Gen-Z rave neon cyber aesthetic.
+Use advanced animations, not basic ones.
+Give me the full project ready to run.
+✅ END OF PROMPT
+Copy that into Replit’s coding agent and it will generate your full portfolio setup.
+If you want, I can also give you:
+✅ a version with your name + real details pre-filled
+✅ a version with images, 3D assets, custom shaders
