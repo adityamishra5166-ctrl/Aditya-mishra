@@ -16,9 +16,13 @@ export default function Contact() {
           <GlitchText text="INITIATE_CONTACT" />
         </h1>
         
-        <p className="text-center text-white/60 font-mono mb-12 max-w-md mx-auto">
+        <p className="text-center text-white/60 font-mono mb-6 max-w-md mx-auto">
           Have a project in mind? Let's build something that breaks the internet.
         </p>
+        <div className="text-center text-white/70 font-mono text-sm space-y-1 mb-6">
+          <p>Email: <a className="text-neon-blue" href="mailto:adityamishra123@gmail.com">adityamishra123@gmail.com</a></p>
+          <p>Phone: 23456677</p>
+        </div>
 
         <form className="space-y-6 bg-white/5 p-8 border border-white/10 backdrop-blur-md relative overflow-hidden">
           {/* Decorative Corner */}

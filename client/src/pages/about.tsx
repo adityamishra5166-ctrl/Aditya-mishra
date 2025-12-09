@@ -28,12 +28,14 @@ export default function About() {
             <div className="bg-white/5 border border-white/10 p-8 backdrop-blur-sm hover:border-neon-purple transition-colors duration-300">
               <h3 className="font-mono text-neon-blue text-xl mb-4">// WHO_AM_I</h3>
               <p className="text-white/80 leading-relaxed font-sans text-lg">
-                I'm a digital craftsman based in the metaverse. I don't just write code; I orchestrate pixels to dance on the screen. 
-                My background in design and engineering allows me to bridge the gap between aesthetic and function.
+                I’m Aditya Mishra, a BCA student at Arcade Business College. I build end-to-end
+                experiences with a focus on clarity, speed, and polish—bridging design sense with
+                solid engineering.
               </p>
               <br />
               <p className="text-white/80 leading-relaxed font-sans text-lg">
-                Obsessed with performance, accessibility, and making things glow. Currently building the future of web interfaces.
+                Comfortable across languages and stacks: C, C++, Python, Java, HTML/CSS, and more.
+                Passionate about performant UI, accessible UX, and clean architecture.
               </p>
             </div>
 
@@ -49,8 +51,8 @@ export default function About() {
                   <span className="text-white/50">2021 - 2023</span>
                 </li>
                 <li className="flex justify-between border-b border-white/10 pb-2">
-                  <span>FREELANCE @ WORLDWIDE</span>
-                  <span className="text-white/50">2019 - 2021</span>
+                  <span>UG @ ARCADE BUSINESS COLLEGE</span>
+                  <span className="text-white/50">BCA</span>
                 </li>
               </ul>
             </div>

@@ -29,8 +29,9 @@ export default function Home() {
         </h1>
 
         <p className="font-mono text-white/70 max-w-xl text-lg leading-relaxed border-l-2 border-neon-purple pl-4">
-          Building immersive digital experiences with code and chaos. 
-          Full-stack engineer specializing in 3D visuals and high-performance interfaces.
+          I’m Aditya Mishra, a BCA student at Arcade Business College who loves shipping
+          fast, polished experiences. Comfortable across the stack with C, C++, Python,
+          Java, HTML/CSS, and more—focused on clear UX and performant builds.
         </p>
 
         <div className="flex flex-wrap gap-4 pt-8">
